@@ -34,6 +34,7 @@ Este proyecto es un sistema de gestión para personas con discapacidad, que perm
 ![image](https://github.com/user-attachments/assets/c67be6df-1207-437b-ac6b-eedebfe8c499)
 
 - **Ver Servicios Asignados**: Mostrar los servicios asignados a cada beneficiario.
+- **Asignar Servicio a Beneficiario**: Permite seleccionar un beneficiario y un servicio para su relación.
 
 ### Seguimiento de Progreso
 
